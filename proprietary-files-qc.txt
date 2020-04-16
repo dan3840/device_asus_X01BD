@@ -62,22 +62,35 @@ lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
 lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
 
 # Audio - from WW_Phone-17.2018.1912.409-20200114
-vendor/lib/libacdb-fts.so|5701a637cd107ded4eb579dcc85a8425c77c9d81
-vendor/lib/libacdbloader.so|47b2337da7758ab9d944a8fffa1b8cc3d1c62523
-vendor/lib/libacdbrtac.so|afd676efb340fc884c98aaf97e4913ac21e88cb5
-vendor/lib/libadiertac.so|8376519ed9feb240e55987606b49ff9653383c3a
-vendor/lib/libadm.so|ac9e83146c40c340c70ddfeaef044b243e52e309
-vendor/lib/libaudcal.so|78561356d26c567bfd793313ea13cb8dd1e45105
-vendor/lib/libaudioalsa.so|61d75736da88920ec71bcc721f34ed04127aac3a
-vendor/lib/libaudioparsers.so|4d074631277ad63092d4f0f6995c827351f89690
-vendor/lib/libaudio_log_utils.so|c0187996e4aa81683518645d1e1931afea5491de
-vendor/lib/libdrc.so|acd6cee28271d3b09ffd580926d12c0aa71121d6
-vendor/lib/libqtigef.so|eb15037caba9fe07b1d3f6d4979c27746bb39343
-vendor/lib/libsurround_3mic_proc.so|f46a16389fae9a67d232552cdc5dba567d72d795
-vendor/lib/soundfx/libasphere.so|504dd71419302f4c49de59429c79f13710b713cf
-vendor/lib/soundfx/libqcbassboost.so|9327128a592d24def9a6e323c9a85541a2052c1a
-vendor/lib/soundfx/libqcreverb.so|bf57090dbba900b6a3325513b4b6d4bdc6eaf2cd
-vendor/lib/soundfx/libqcvirt.so|050274cac0a518494d0bc12d288722a50670ed95
+etc/permissions/audiosphere.xml
+framework/audiosphere.jar
+vendor/lib/libacdb-fts.so
+vendor/lib/libacdbloader.so
+vendor/lib/libacdbrtac.so
+vendor/lib/libadiertac.so
+vendor/lib/libadm.so
+vendor/lib/libaudcal.so
+vendor/lib/libaudioalsa.so
+vendor/lib/libaudioparsers.so
+vendor/lib/libaudio_log_utils.so
+vendor/lib/libdrc.so
+vendor/lib/libqtigef.so
+vendor/lib/libsurround_3mic_proc.so
+vendor/lib/soundfx/libqcbassboost.so
+vendor/lib/soundfx/libqcreverb.so
+vendor/lib/soundfx/libqcvirt.so
+vendor/lib64/libacdb-fts.so
+vendor/lib64/libacdbloader.so
+vendor/lib64/libacdbrtac.so
+vendor/lib64/libadiertac.so
+vendor/lib64/libaudcal.so
+vendor/lib64/libaudioalsa.so
+vendor/lib64/libaudioparsers.so
+vendor/lib64/libaudio_log_utils.so
+vendor/lib64/libqtigef.so
+vendor/lib64/soundfx/libasphere.so
+vendor/lib64/soundfx/libqcbassboost.so
+vendor/lib64/soundfx/libqcvirt.so
 
 # Bluetooth - from LA.UM.8.2.r1-06200-sdm660.0
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|5acf94f38e47c2ec43c95e132dfe7b5d71ec41c4
